@@ -17,6 +17,12 @@ I'm learning how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/02-Series.ipynb">Pandas Series</a></li>
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/03-DataFrames.ipynb">Pandas DataFrame</a></li>
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/04-Missing%20Data.ipynb">Pandas Missing Data</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/05-Groupby.ipynb">Pandas Groupby</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/06-Merging%2C%20Joining%2C%20and%20Concatenating.ipynb">Pandas Merging, Joining and Concatenating</a></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
   <li></li>
   <li></li>
   <li></li>
