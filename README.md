@@ -22,10 +22,22 @@ I'm learning how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/07-Operations.ipynb">Pandas Operations</a></li>
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/03-Python-for-Data-Analysis-Pandas/08-Data%20Input%20and%20Output.ipynb">Pandas Data Input and Output</a></li>
   <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/04-Pandas-Exercises/01-SF%20Salaries%20Exercise.ipynb">Pandas SF Salaries Exercises</a></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/04-Pandas-Exercises/03-Ecommerce%20Purchases%20Exercise%20.ipynb">Pandas Ecommerce Purchases Exercise</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/05-Data-Visualization-with-Matplotlib/01-Matplotlib%20Concepts%20Lecture.ipynb">Matplotlib Overview Lecture</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/05-Data-Visualization-with-Matplotlib/02-Matplotlib%20Exercises.ipynb">Matplotlib Exercises</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/05-Data-Visualization-with-Matplotlib/04-Advanced%20Matplotlib%20Concepts.ipynb">Advanced Matplotlib Concepts Lecture</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/06-Data-Visualization-with-Seaborn/01-Distribution%20Plots.ipynb">Seaborn Distribution Plots</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/06-Data-Visualization-with-Seaborn/02-Categorical%20Plots.ipynb">Seaborn Categorical Data Plots</a></li>
+  <li><a href="https://github.com/jmacedo91/Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/06-Data-Visualization-with-Seaborn/03-Matrix%20Plots.ipynb">Seaborn Matrix Plots</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ol></b>
 
